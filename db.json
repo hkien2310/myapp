@@ -1,0 +1,114 @@
+{
+  "mainposts": {
+    "id": 1,
+    "title": "TRỰC TIẾP Liverpool - Real Madrid: Đại chiến ở chung kết Cúp C1 châu Âu  ",
+    "image": "https://vov.vn/sites/default/files/styles/front_large/public/2022-05/truc_tiep_liverpool_vs_real_madrid.jpg"
+  },
+  "mainpostcontent": [
+    {
+      "id": 1,
+      "title": "Thủ tướng khảo sát, kiểm tra một số công trình, dự án lớn tại Hòa Bình, Sơn La"
+    },
+    {
+      "id": 2,
+      "title": "Chuyển đổi năng lượng còn chậm: Đâu là giải pháp? "
+    },
+    {
+      "id": 3,
+      "title": "Thủ tướng khảo sát, kiểm tra một số công trình, dự án lớn tại Hòa Bình, Sơn La"
+    },
+    {
+      "id": 4,
+      "title": "Chuyển đổi năng lượng còn chậm: Đâu là giải pháp? "
+    },
+    {
+      "id": 5,
+      "title": "Thủ tướng khảo sát, kiểm tra một số công trình, dự án lớn tại Hòa Bình, Sơn La"
+    },
+    {
+      "title": "lam lai",
+      "image": "",
+      "id": 6
+    },
+    {
+      "title": "gi do",
+      "image": "",
+      "id": 7
+    }
+  ],
+  "subposts": [
+    {
+      "id": 1,
+      "image": "https://vov.vn/sites/default/files/styles/front_large/public/2022-05/a_16i3086.gif",
+      "title": "Chủ tịch nước: Sự thành công tại SEA Games 31 là dấu mốc lịch sử của bóng đá nước nhà"
+    },
+    {
+      "id": 2,
+      "image": "https://vov.vn/sites/default/files/styles/front_large/public/2022-05/a_16i3086.gif",
+      "title": "Chủ tịch nước: Sự thành công tại SEA Games 31 là dấu mốc lịch sử của bóng đá nước nhà"
+    },
+    {
+      "id": 3,
+      "image": "https://vov.vn/sites/default/files/styles/front_large/public/2022-05/a_16i3086.gif",
+      "title": "Chủ tịch nước: Sự thành công tại SEA Games 31 là dấu mốc lịch sử của bóng đá nước nhà"
+    },
+    {
+      "id": 4,
+      "image": "https://vov.vn/sites/default/files/styles/front_large/public/2022-05/a_16i3086.gif",
+      "title": "Chủ tịch nước: Sự thành công tại SEA Games 31 là dấu mốc lịch sử của bóng đá nước nhà"
+    }
+  ],
+  "justupdate": [
+    {
+      "id": 2,
+      "image": "https://vov.vn/sites/default/files/styles/front_large/public/2022-05/xe.jpg",
+      "title": "Cho thôi việc bảo vệ lái Mercedes Maybach tông loạt xe máy trong hầm chung cư"
+    }
+  ],
+  "appBar": [
+    {
+      "id": 1,
+      "title": "Chính trị"
+    },
+    {
+      "id": 2,
+      "title": "Xã Hội"
+    },
+    {
+      "id": 3,
+      "title": "Thế Giới"
+    },
+    {
+      "id": 4,
+      "title": "Kinh Tế"
+    },
+    {
+      "id": 5,
+      "title": "Thể Thao"
+    },
+    {
+      "id": 6,
+      "title": "Văn Hóa"
+    },
+    {
+      "id": 7,
+      "title": "Pháp Luật"
+    },
+    {
+      "id": 8,
+      "title": "Du Lịch"
+    },
+    {
+      "id": 9,
+      "title": "Quân Sự - Quốc Phòng"
+    },
+    {
+      "id": 10,
+      "title": "Sức khỏe"
+    },
+    {
+      "id": 11,
+      "title": "Đời sống"
+    }
+  ]
+}
